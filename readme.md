@@ -1,13 +1,14 @@
-這是Readme.txt
-
-主題：黑白棋Reversi
+# 黑白棋Reversi
 
 組別：Group 16
 
 組員：B11315038張智華、B11330046王瑋琮、B11315046許育銘
 
+[Document](https://github.com/WeiTsungWang/Reversi/blob/main/Document.pdf)
 
-程式碼編譯方式：
+[Demo](https://youtu.be/YcMYnxGS-Ds)
+
+## 程式碼編譯方式
 
 1. 使用學校email信箱到Qt官網申請Qt教育版憑證帳號（Qt Educational License）https://www.qt.io/qt-educational-license#application。
 
